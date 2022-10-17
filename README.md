@@ -1,7 +1,7 @@
 # SmallMolecules_MoIGAN_HPT
 Generating hypertension small molecules using MoIGAN and Hypertension dataset from ChEMBL.
 
-# Reference: https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb#scrollTo=VQ9mMmseaVH_
+Reference: https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb#scrollTo=VQ9mMmseaVH_
 
 """
 The following model was a product of the paper "MolGAN: An implicit generative model for small molecular graphs" by Cao and Kipf.
